@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969596291373",
+    "firebase_url": "https://lovebee-d89b0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lovebee-d89b0",
+    "storage_bucket": "lovebee-d89b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969596291373:android:ee19c7abce138f787e6ba4",
+        "android_client_info": {
+          "package_name": "com.example.lovebee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969596291373-kr5fk8rctmgrg86vf3gsc4986isa9a9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lovebee",
+            "certificate_hash": "aacf72de8da4c13948dd83c9035f4575322db460"
+          }
+        },
+        {
+          "client_id": "969596291373-rbrlkbfo1h8j0kealrbv0tblvrcuj0gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3WupdmkjLlH9b2NegcdXP_hL56HBzz9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969596291373-af4c4l1kl0l5eou274b54rsdstleni1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969596291373-em41ifobt6l4q1s65oeu18ubd5gkhf4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lovebee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
