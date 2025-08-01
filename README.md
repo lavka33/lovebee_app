@@ -1,3 +1,3 @@
 # lovebee
 
-A new Flutter project.
+A new Android/iOS project.
